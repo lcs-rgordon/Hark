@@ -11,6 +11,7 @@
 		812F51A42C0E4A8F00C1A270 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 812F51A32C0E4A8F00C1A270 /* Assets.xcassets */; };
 		812F51A72C0E4A8F00C1A270 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 812F51A62C0E4A8F00C1A270 /* Preview Assets.xcassets */; };
 		812F51AF2C0E4AA900C1A270 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 812F51AE2C0E4AA900C1A270 /* WelcomeView.swift */; };
+		812F51B12C0E509100C1A270 /* ClassSelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 812F51B02C0E509100C1A270 /* ClassSelectionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		812F51A32C0E4A8F00C1A270 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		812F51A62C0E4A8F00C1A270 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		812F51AE2C0E4AA900C1A270 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		812F51B02C0E509100C1A270 /* ClassSelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassSelectionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				812F51AE2C0E4AA900C1A270 /* WelcomeView.swift */,
+				812F51B02C0E509100C1A270 /* ClassSelectionView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			files = (
 				812F51A02C0E4A8E00C1A270 /* HarkApp.swift in Sources */,
 				812F51AF2C0E4AA900C1A270 /* WelcomeView.swift in Sources */,
+				812F51B12C0E509100C1A270 /* ClassSelectionView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
